@@ -1,0 +1,92 @@
+[
+    {
+        "id": 1,
+        "name": "Design Studio Pro",
+        "description": "Create stunning designs for social media, presentations, and branding with ease.",
+        "price": 45,
+        "period": "one-time",
+        "tag": "Popular",
+        "tagType": "popular",
+        "features": [
+            "1500+ templates",
+            "Drag & drop editor",
+            "Export in multiple formats"
+        ],
+        "icon": "https://i.ibb.co.com/YBQg7pKF/design-tool.png"
+    },
+    {
+        "id": 2,
+        "name": "Workflow Automation",
+        "description": "Automate repetitive tasks and improve productivity with smart workflows.",
+        "price": 30,
+        "period": "monthly",
+        "tag": "New",
+        "tagType": "new",
+        "features": [
+            "100+ automation tools",
+            "API integrations",
+            "Custom triggers"
+        ],
+        "icon": "https://i.ibb.co.com/dJjH05C5/operation.png"
+    },
+    {
+        "id": 3,
+        "name": "Portfolio Builder",
+        "description": "Build and showcase your professional portfolio with beautiful layouts.",
+        "price": 20,
+        "period": "one-time",
+        "tag": "Best Seller",
+        "tagType": "best-seller",
+        "features": [
+            "50+ portfolio templates",
+            "Responsive design",
+            "SEO optimized"
+        ],
+        "icon": "https://i.ibb.co.com/4wPW1fV8/portfolio.png"
+    },
+    {
+        "id": 4,
+        "name": "E-commerce Toolkit",
+        "description": "Everything you need to build and manage your online store efficiently.",
+        "price": 60,
+        "period": "yearly",
+        "tag": "Popular",
+        "tagType": "popular",
+        "features": [
+            "Product management",
+            "Payment gateway integration",
+            "Order tracking system"
+        ],
+        "icon": "https://i.ibb.co.com/j94VkDTc/shopping-cart.png"
+    },
+    {
+        "id": 5,
+        "name": "Social Media Manager",
+        "description": "Plan, schedule, and analyze your social media content in one place.",
+        "price": 25,
+        "period": "monthly",
+        "tag": "Best Seller",
+        "tagType": "best-seller",
+        "features": [
+            "Post scheduler",
+            "Analytics dashboard",
+            "Multi-platform support"
+        ],
+        "icon": "https://i.ibb.co.com/W48vW7YG/social-media.png"
+    },
+    {
+        "id": 6,
+        "name": "AI Writing Assistant",
+        "description": "Generate high-quality content, blogs, and marketing copy instantly.",
+        "price": 18,
+        "period": "monthly",
+        "tag": "New",
+        "tagType": "new",
+        "features": [
+            "AI content generation",
+            "Grammar correction",
+            "SEO optimization"
+        ],
+        "icon": "https://i.ibb.co.com/201BrFd0/writing-2327400-1.png"
+    }
+]
