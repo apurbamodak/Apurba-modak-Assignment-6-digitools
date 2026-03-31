@@ -4,7 +4,7 @@ import bannerPng from "../assets/banner.png"
 const Hero = () => {
     return (
         <div className="hero bg-base-200 w-[80%] mx-auto">
-            <div className="hero-content flex flex-col lg:flex-row gap-5 my-4">
+            <div className="hero-content flex flex-col md:flex-row gap-5 my-4">
 
                 <div className='space-y-4'>
                     <button className='btn bg-[#E1E7FF] rounded-full p-4'>New: AI-Powered Tools Available</button>
